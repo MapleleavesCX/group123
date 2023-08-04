@@ -1,0 +1,12 @@
+﻿  sm2_PGP_client.cpp
+E:\work\project 14\Client\sm2.h(79,30): warning C4244: “参数”: 从“uint16_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\work\project 14\Client\sm2.h(212,17): warning C4101: “randomNum”: 未引用的局部变量
+E:\work\project 14\Client\sm2_PGP_client.cpp(272,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 14\Client\sm2_PGP_client.cpp(297,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 14\Client\sm2_PGP_client.cpp(324,85): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 14\Client\sm2_PGP_client.cpp(266,1): warning C4102: “PGP”: 未引用的标签
+  Client.vcxproj -> E:\work\project 14\Client\x64\Debug\Client.exe
