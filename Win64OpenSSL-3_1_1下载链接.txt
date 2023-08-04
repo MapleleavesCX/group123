@@ -1,0 +1,12 @@
+https://slproweb.com/products/Win32OpenSSL.html
+
+请下载win64-3.1以上版本；
+然后安装在D盘最顶层，以与项目中默认链接地址D:\OpenSSL-Win64相同
+
+或者手动更改链接地址：
+
+在VS的工程设置工程属性
+1：右击工程名 ——> 选择“属性”
+2：在“VC++目录”——> “包含目录”中添加openSSL的include文件（在您安装openssl的文件下）
+3：在“VC++目录”——> “库目录”中添加openSSL的lib文件（在您安装openssl的文件下）
+4：在“链接器”——>“输入”——>“附加依赖项”中添加libssl.lib和libcrypto.lib（键盘输入）;
