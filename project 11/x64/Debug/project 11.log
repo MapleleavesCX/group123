@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\work\project 11\sm2.h(79,30): warning C4244: “参数”: 从“uint16_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\work\project 11\sm2.h(212,17): warning C4101: “randomNum”: 未引用的局部变量
+  project 11.vcxproj -> E:\work\project 11\x64\Debug\project 11.exe
