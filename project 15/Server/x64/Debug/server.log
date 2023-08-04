@@ -1,0 +1,10 @@
+﻿  sm2_2Psign_server.cpp
+E:\work\project 15\Server\sm2.h(77,30): warning C4244: “参数”: 从“uint16_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\work\project 15\Server\sm2.h(210,17): warning C4101: “randomNum”: 未引用的局部变量
+E:\work\project 15\Server\sm2_2Psign_server.cpp(254,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 15\Server\sm2_2Psign_server.cpp(104,5): warning C4102: “sign2P”: 未引用的标签
+  server.vcxproj -> E:\work\project 15\Server\x64\Debug\Server.exe
