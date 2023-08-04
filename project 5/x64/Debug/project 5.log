@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\work\project 5\MPT.h(43,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\work\project 5\MPT.h(103,48): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(104,52): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(109,31): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(128,48): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(129,52): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(136,64): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(137,48): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(138,49): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(143,31): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\MPT.h(153,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 5\MPT.h(174,18): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\main.cpp(68,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\work\project 5\main.cpp(89,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  project 5.vcxproj -> E:\work\project 5\x64\Debug\project 5.exe
