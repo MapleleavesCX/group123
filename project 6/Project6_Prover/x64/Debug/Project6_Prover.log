@@ -1,0 +1,10 @@
+﻿  Prover.cpp
+E:\work\project 6\Project6_Prover\sm2.h(78,30): warning C4244: “参数”: 从“uint16_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\work\project 6\Project6_Prover\sm2.h(211,17): warning C4101: “randomNum”: 未引用的局部变量
+E:\work\project 6\Project6_Prover\Prover.cpp(70,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\project 6\Project6_Prover\Prover.cpp(175,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project6_Prover.vcxproj -> E:\work\project 6\Project6_Prover\x64\Debug\Project6_Prover.exe
